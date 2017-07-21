@@ -1,0 +1,9 @@
+{
+  	"data": [
+  		{
+	      "url_image": "http://topanhdep.net/wp-content/uploads/2017/01/hinh-anh-tiep-vien-hang-khong-17.jpg",
+	      "category_name": "Tiếp viên hàng không",
+	      "category_id": "01"
+	    }
+  	]
+}
