@@ -1,0 +1,2 @@
+# bot-workplace
+chatbot @workplace
